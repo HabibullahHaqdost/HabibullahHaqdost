@@ -23,6 +23,11 @@ I design and build custom websites for businesses. Over the past 2 years I've de
 - **AI Workflow:** Claude, ChatGPT, AI-assisted development, AI photo & video editing
 - **Tools:** Git, GitHub, VS Code, LiteSpeed, Canva
 
+## 🔬 Research
+**Undergraduate Researcher**, Islamic Azad University, Mashhad (Winter 2026), supervised by Dr. Gelareh Veisi
+*The Role of Cryptography in Information Security: A Comparative Study of Cryptographic Algorithms*
+Compared DES, 3DES, AES, RSA and ECC by security, speed, key length and use cases, benchmarked them with the Web Crypto API, and built a browser demo of hybrid encryption (ECDH + AES-GCM).
+
 ## 🎓 Education
 B.Sc. in Computer Engineering (Software), Islamic Azad University, Mashhad (2022 – 2026)
 
@@ -52,6 +57,11 @@ B.Sc. in Computer Engineering (Software), Islamic Azad University, Mashhad (2022
 - **طراحی وب و رابط کاربری:** Figma، طراحی وب‌سایت اختصاصی، طراحی فروشگاه اینترنتی، طراحی بنر
 - **هوش مصنوعی:** Claude، ChatGPT، توسعه با کمک هوش مصنوعی، ادیت عکس و ویدیو با هوش مصنوعی
 - **ابزارها:** Git، GitHub، VS Code، LiteSpeed، Canva
+
+### 🔬 پژوهش
+**پژوهشگر دوره‌ی کارشناسی**، دانشگاه آزاد اسلامی مشهد (زمستان ۲۰۲۶)، با راهنمایی دکتر گلاره ویسی
+*نقش رمزنگاری در امنیت اطلاعات: مطالعه‌ی تطبیقی الگوریتم‌های رمزنگاری*
+مقایسه‌ی DES، 3DES، AES، RSA و ECC از نظر امنیت، سرعت، طول کلید و کاربرد، اندازه‌گیری عملکرد آن‌ها با Web Crypto API، و ساخت یک دموی تحت وب از رمزگذاری ترکیبی (ECDH + AES-GCM).
 
 ### 🎓 تحصیلات
 کارشناسی مهندسی کامپیوتر (نرم‌افزار)، دانشگاه آزاد اسلامی مشهد (۲۰۲۲ تا ۲۰۲۶)
