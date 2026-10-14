@@ -13,7 +13,7 @@ I design and build custom websites for businesses. Over the past 2 years I've de
 | Project | What I built |
 |---|---|
 | [Storiva](https://storiva.online/) | Custom single-page e-commerce CMS built from scratch (PHP, Tailwind CSS, vanilla JS) with product management, cart and order tracking |
-| [Orya Driving Academy](https://oryadrivingacademy.com/) | Corporate WordPress website with a custom online booking feature |
+| [Orya Driving Academy](https://oryadrivingacademy.com/) | Corporate WordPress website with a custom online booking feature, documented end to end as a [Software Engineering course project](https://github.com/HabibullahHaqdost/driving-school-booking-system) (requirements, 8 UML diagrams, MySQL schema, test plan) |
 | [Farmers Saffron](https://farmerssaffron.com/) | Corporate e-commerce website with product catalog, blog and custom banners |
 | [Kabura Kitchen](https://kaburakitchen.com/) | Corporate e-commerce website in WordPress |
 
@@ -48,7 +48,7 @@ B.Sc. in Computer Engineering (Software), Islamic Azad University, Mashhad (2022
 
 ### 🚀 نمونه‌کارها
 - **[Storiva](https://storiva.online/):** سیستم مدیریت محتوای فروشگاهی تک‌صفحه‌ای که از صفر ساخته شده (PHP، Tailwind CSS، جاوااسکریپت خالص)، با مدیریت محصول، سبد خرید و پیگیری سفارش
-- **[آکادمی رانندگی Orya](https://oryadrivingacademy.com/):** وب‌سایت شرکتی وردپرسی با قابلیت رزرو آنلاین اختصاصی
+- **[آکادمی رانندگی Orya](https://oryadrivingacademy.com/):** وب‌سایت شرکتی وردپرسی با قابلیت رزرو آنلاین اختصاصی، که سیستم رزرو آن به‌عنوان [پروژه‌ی درس مهندسی نرم‌افزار](https://github.com/HabibullahHaqdost/driving-school-booking-system) به‌طور کامل مستندسازی شده است (نیازمندی‌ها، ۸ نمودار UML، طراحی پایگاه داده‌ی MySQL و برنامه‌ی تست)
 - **[Farmers Saffron](https://farmerssaffron.com/):** وب‌سایت فروشگاهی شرکتی با کاتالوگ محصولات، وبلاگ و بنرهای اختصاصی
 - **[Kabura Kitchen](https://kaburakitchen.com/):** وب‌سایت فروشگاهی شرکتی با وردپرس
 
